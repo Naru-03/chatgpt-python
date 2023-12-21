@@ -1,0 +1,4 @@
+pip3 install --upgrade tensorflow-gpu --user
+python.exe -m pip install --upgrade pip --user
+pip install openai --user
+pip install openai==0.28 --user
